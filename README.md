@@ -9,3 +9,5 @@ More lines
 Squash
 
 Not pulled local
+
+Merge conflict rebase
