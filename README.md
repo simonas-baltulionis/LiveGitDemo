@@ -10,4 +10,4 @@ Squash
 
 Not pulled local
 
-Merge conflict rebase
+My remote change
