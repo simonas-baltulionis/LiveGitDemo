@@ -5,3 +5,5 @@ LiveDemotest
 Another line
 
 More lines
+
+Squash
